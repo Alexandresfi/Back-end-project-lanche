@@ -7,4 +7,4 @@
     
   <p> Essa API será consumida por um front-end bem simples</p>
   
-  <a href="#"> confira o repositório </a>
+  <a href="https://github.com/Alexandresfi/Mini_lanchonete"> confira o repositório </a>
